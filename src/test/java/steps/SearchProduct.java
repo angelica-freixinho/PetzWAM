@@ -15,6 +15,7 @@ public class SearchProduct {
     public void iSearch(String arg0) throws Throwable {
         // Write code here that turns the phrase above into concrete actions
         throw new PendingException();
+
     }
 
     @Then("^I see a list of product \"([^\"]*)\"$")
